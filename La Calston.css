@@ -7,3 +7,8 @@
          url('fonts/lacalston.ttf')  format('truetype'),
          url('fonts/lacalston.svg#La Calston') format('svg');
 }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
